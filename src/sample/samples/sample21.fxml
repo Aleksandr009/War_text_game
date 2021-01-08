@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller21">
+    <children>
+        <Button fx:id="but19_d" layoutX="66.0" layoutY="436.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+        <Text layoutX="3.0" layoutY="194.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Я решил укрытся в воронке и как оказалось не зря. Как только я прыгнул в нее, тут же раздался взрыв рядом со мной. Это взорвался наш" />
+        <Text layoutX="3.0" layoutY="210.0" strokeType="OUTSIDE" strokeWidth="0.0" text="танк за которым я шел. Я решил немного сдесь отсидется и не выглядывать. Мне были слышны взрывы снарядов, стрельба и крики солдат." />
+        <Text layoutX="3.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Битва была в самом разгоре." />
+    </children>
+</AnchorPane>

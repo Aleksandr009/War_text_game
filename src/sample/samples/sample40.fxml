@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller40">
+    <children>
+        <Button fx:id="but7_m" layoutX="66.0" layoutY="436.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="В главное меню" />
+      <Text layoutX="3.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Я решил открыть вторую дверь и там оказались немцы которые сразу начали стрелять. Ребята их обезвредили но я получил ранение и был" />
+      <Text layoutX="3.0" layoutY="198.0" strokeType="OUTSIDE" strokeWidth="0.0" text="доставлен в военный госпиталь Москвы. К моменту моей выписки битва за Москву было завершена нашей победой. Немцы потерпели" />
+      <Text layoutX="3.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="0.0" text="свое первое поражение и начали стремительно отступать. Многие из наших ребят были удостоены высших наград." />
+    </children>
+</AnchorPane>

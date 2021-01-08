@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller3">
+   <children>
+      <Text layoutX="3.0" layoutY="193.0" strokeType="OUTSIDE" strokeWidth="0.0" text="После очередной остановки и пополнения припасов еды, которой нас угощали местные жители, мы двинулись дальше и до Москвы остава-" />
+      <Text layoutX="3.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="лось совсем немного. Заканчивался очередной день и мы с Денисом общались, наелись пирожков которыми нас угостили и заснули." />
+      <Text layoutX="3.0" layoutY="225.0" strokeType="OUTSIDE" strokeWidth="0.0" text="На следующее утро я проснуля от того что кто то наступил на меня. Оглядевшись я заметил как двое ребят бьют Дениса. От неожиданности я " />
+      <Text layoutX="3.0" layoutY="241.0" strokeType="OUTSIDE" strokeWidth="0.0" text="немного растерялся и не сразу сообразил что мне делать. Денис перевел взгляд на меня и в нем явно читалась просьба о помощи. Что" />
+      <Text layoutX="3.0" layoutY="257.0" strokeType="OUTSIDE" strokeWidth="0.0" text="мне делать? Заступится за Дениса? Или не вмешиватся?" />
+      <Button fx:id="but_z" layoutX="57.0" layoutY="378.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="110.0" style="-fx-background-color: #6ee2e4;" text="Заступится" />
+      <Button fx:id="but_n_z" layoutX="57.0" layoutY="437.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="110.0" style="-fx-background-color: #6ee2e4;" text="Не заступатся" />
+   </children>
+</AnchorPane>

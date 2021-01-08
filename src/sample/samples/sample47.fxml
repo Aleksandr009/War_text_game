@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller47">
+    <children>
+        <Button fx:id="but_v_s" layoutX="66.0" layoutY="405.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Выглянуть" />
+      <Text layoutX="3.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Мы поднялись на третий этаж. В коридоре раздались приблежающиеся шаги. Выглянуть? Дождатся когда противник подойдет ближе?" />
+      <Button fx:id="but_d_k_b" layoutX="66.0" layoutY="457.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Дождатся" />
+    </children>
+</AnchorPane>

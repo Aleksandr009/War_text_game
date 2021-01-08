@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller23">
+    <children>
+        <Button fx:id="but15_d" layoutX="66.0" layoutY="436.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+        <Text layoutX="3.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Добежав я укрылся за домом. Впереди были горящие и полуразрушенные деревянные дома и там были немцы. Шла перестрелка и я услышал" />
+        <Text layoutX="3.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="гул танкового мотора с другой стороны дома за которым я укрывался. Он подъезжал как раз к той стороне где я стою. Я огляделся и увидел" />
+        <Text layoutX="3.0" layoutY="199.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Дениса неподалеку в другом доме где было безопаснее но дорогу до него преграждали немцы которые вели огонь. Я крикнул Денису чтобы " />
+        <Text layoutX="3.0" layoutY="215.0" strokeType="OUTSIDE" strokeWidth="0.0" text="он прикрыл меня и сам побежал до дома в котором укрылся Денис. Он прикрыл меня и я блогополучно добежал до этого дома. Я подбежал" />
+        <Text layoutX="3.0" layoutY="231.0" strokeType="OUTSIDE" strokeWidth="0.0" text="к окну и мы с Денисом начяли вести огонь по немцам." />
+    </children>
+</AnchorPane>

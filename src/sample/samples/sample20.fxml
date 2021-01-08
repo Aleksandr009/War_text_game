@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller20">
+    <children>
+        <Button fx:id="but_y" layoutX="64.0" layoutY="378.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="130.0" style="-fx-background-color: #6ee2e4;" text="Укрытся в воронке" />
+        <Label layoutX="357.0" layoutY="49.0" text="Глава третья.">
+            <font>
+                <Font size="19.0" />
+            </font>
+        </Label>
+        <Label layoutX="357.0" layoutY="99.0" text="Волокаламск.">
+            <font>
+                <Font size="15.0" />
+            </font>
+        </Label>
+        <Text layoutX="3.0" layoutY="210.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Мы добрались до окрестностей Волокаламска. Вдали был город занятый немцами. Подступы к городу были перекрыты немцами. Мы не знали" />
+        <Text layoutX="3.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="в каком населенном пункте мы сейчас конкретно находимся и перед нами просто поставили задачу освободить город от немцев. Вперед" />
+        <Text layoutX="3.0" layoutY="242.0" strokeType="OUTSIDE" strokeWidth="0.0" text="пошли танки а мы двинулись вслед за ними. Впереди послышались танковые выстрелы наших танков. Я шел в последних рядах нашей нас-" />
+        <Text layoutX="3.0" layoutY="258.0" strokeType="OUTSIDE" strokeWidth="0.0" text="тупающей армии. Послышались ответные выстрелы. Вдали показались немецкие танки и началось побоище. Неподалеку я заметил глубокую" />
+        <Text layoutX="3.0" layoutY="274.0" strokeType="OUTSIDE" strokeWidth="0.0" text="воронку и подумал может мне какое то время переждать в этой воронке пока танкисты разбираются между собой? Или продолжать идти" />
+        <Text layoutX="3.0" layoutY="290.0" strokeType="OUTSIDE" strokeWidth="0.0" text="вперед вслед за танками?" />
+        <Button fx:id="but_p" layoutX="64.0" layoutY="434.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="130.0" style="-fx-background-color: #6ee2e4;" text="Продолжать идти " />
+    </children>
+</AnchorPane>

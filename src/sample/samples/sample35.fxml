@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller35">
+    <children>
+        <Button fx:id="but21_d" layoutX="66.0" layoutY="436.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+      <Text layoutX="3.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Я решил дождатся наших танков. Денис с Олегом тоже решили не высовыватся. Вскоре показались наши танки которые направились прямо " />
+      <Text layoutX="3.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="на немецкие укрепления паля в них мощным огнем. Немцы начали отступать оставляя свои укрепления и мы пошли вперед преследуя их." />
+      <Text layoutX="3.0" layoutY="221.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Немцев осталось совсем немного и с боями мы оказались в Волокаламске." />
+    </children>
+</AnchorPane>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller2">
+   <children>
+      <Text layoutX="3.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Тянулись дни. На лицах многих ребят было отчетливо видно волнение так как все прекрасно понимали куда нас везут и зачем. Волнение " />
+      <Text layoutX="3.0" layoutY="216.0" strokeType="OUTSIDE" strokeWidth="0.0" text="отгоняло общение на далекие от войны темы. Но некоторые ребята все же говорили о том как они будут бить фрицев. В нашем вагоне" />
+      <Text layoutX="3.0" layoutY="232.0" strokeType="OUTSIDE" strokeWidth="0.0" text="я особо сдружился с Денисом. Ему 20 лет и он мне расказывал что его ждет девушка на которой он собрался женится после победы над " />
+      <Text layoutX="3.0" layoutY="248.0" strokeType="OUTSIDE" strokeWidth="0.0" text="фашистами. Хороший парень. В пути мы делали короткие остановки во время которых нас встречали местные жители с цветами собравшись" />
+      <Text layoutX="3.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="на вокзалах и у всех у нас складывалось впечатление будто мы едем с победой домой... Они давали нам в дорогу припасы еды и провожали" />
+      <Text layoutX="3.0" layoutY="280.0" strokeType="OUTSIDE" strokeWidth="0.0" text="нас в дальнейший путь, долго смотря нам в след. В нашем вагоне было холодно и все ребята кутались в свои шинели." />
+      <Button fx:id="but3_d" layoutX="44.0" layoutY="430.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="121.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller1">
+   <children>
+      <Label layoutX="345.0" layoutY="29.0" text="Глава первая. ">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="307.0" layoutY="69.0" text="От Хабаровска до Москвы.">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Text layoutY="241.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Меня зовут Алексей Степановичь Ковалев. Я родился в городе Хабаровске в 1923 году 30 августа. Моя мама  учительница младших классов" />
+      <Text layoutX="3.0" layoutY="258.0" strokeType="OUTSIDE" strokeWidth="0.0" text="а отец начальник судоремонтного завода. В нашей семье трое детей, я, мой младший брат Леня которому 13 лет и самая младшая наша " />
+      <Text layoutX="3.0" layoutY="274.0" strokeType="OUTSIDE" strokeWidth="0.0" text="сестра Оля которой 8 лет." />
+      <Text layoutX="154.0" layoutY="274.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Я хорошо помню 22 июня 1941 года... Тот день четко запомнился в моей памяти тем что в этот день началась вой-" />
+      <Text layoutX="3.0" layoutY="291.0" strokeType="OUTSIDE" strokeWidth="0.0" text="на. В тот солнечный день я находился дома и услышал голос диктора по радио что Германия без объявления войны напала на нашу страну." />
+      <Text layoutX="3.0" layoutY="307.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Все лето поступали не утешительные сводки. Осенью 3 ноября пришла повестка явится в военкомат и вот я на жд вокзале вместе с другими " />
+      <Text layoutX="3.0" layoutY="323.0" strokeType="OUTSIDE" strokeWidth="0.0" text="новобранцами и всем нам предстоит проделать долгий путь от Хабаровска до Москвы для обороны столицы нашей родины.  Так мне" />
+      <Text layoutX="3.0" layoutY="339.0" strokeType="OUTSIDE" strokeWidth="0.0" text="предстояло отправится на фронт. Родные меня провожали и плакали. Особенно плакала мама..." />
+      <Text layoutX="3.0" layoutY="355.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Нас всех построили а после рассортировали по вагонам и наш эшелон тронулся с места направляясь в другой конец страны." />
+      <Button fx:id="but1_d" layoutX="43.0" layoutY="432.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="118.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+   </children>
+</AnchorPane>

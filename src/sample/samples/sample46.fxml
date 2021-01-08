@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller46">
+    <children>
+        <Button fx:id="but25_d" layoutX="66.0" layoutY="436.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Далее" />
+      <Text layoutX="3.0" layoutY="198.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Мы решили открать дверь и сразу стрелять. Там было несколько немцев и мы их обезвредили. Далее мы прошлись по коридору и осмотрели " />
+      <Text layoutX="3.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="0.0" text="этаж. Он был чист. Мы отправились на третий этаж. Пройдя по коридору мы подошди к ступенькам. В здании и снаружи продолжали" />
+      <Text layoutX="3.0" layoutY="230.0" strokeType="OUTSIDE" strokeWidth="0.0" text="раздаватся выстрелы. Мы стали подниматся по ступенькам." />
+    </children>
+</AnchorPane>

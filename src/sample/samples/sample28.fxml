@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="800.0" style="-fx-background-color: #a4d363;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.Controller28">
+    <children>
+        <Button fx:id="but_z_v_d" layoutX="62.0" layoutY="403.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Зайти в дом" />
+      <Text layoutX="3.0" layoutY="184.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Мы подошли к дверям дома. Один из парней сказал что его зовут Олег. Зайти в дом или сперва кинуть туда гранату?" />
+      <Button fx:id="but_k_g" layoutX="62.0" layoutY="451.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="119.0" style="-fx-background-color: #6ee2e4;" text="Кинуть гранату" />
+    </children>
+</AnchorPane>
